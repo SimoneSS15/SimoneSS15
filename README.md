@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá a todos 👋
 
 <!--
 **SimoneSS15/SimoneSS15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<H2> Atualmente sou estudante de analise de teste de software, o conhecido QA. Adoro esse mundo de Tecnologia da Informação <h2/>

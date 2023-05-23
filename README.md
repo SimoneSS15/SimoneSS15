@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<H2> Atualmente sou estudante de analise de teste de software, o conhecido QA. Adoro esse mundo de Tecnologia da Informação! <h2/>
+<H2> Analista de testes de softwares Júnior (estudando automação). Adoro esse mundo de Tecnologia da Informação! <h2/>
   <h3>📫 Como me achar: 55 11 973571191<h3/>
  <!--
   <div align="center">

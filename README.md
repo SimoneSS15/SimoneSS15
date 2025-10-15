@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<H2> Profissional de QA com experiência em testes automatizados usando Cypress, voltada para aplicações Web. <h2/>
+<H2> Profissional de QA com experiência em testes automatizados usando Cypress, Postman, Javascript voltada para aplicações Web. <h2/>
   
   <h3> Ajudo empresas a validarem fluxos críticos como login, cadastro e funcionalidades específicas com automação de ponta a ponta (Experiências com sistemas embargados financeiros).</h3>
  <h3>🔧 Experiência com automação, testes manuais, documentação e entrega com qualidade.</h3>

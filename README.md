@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 </div>
 
     <div align="center">
+
+![Cypress](https://img.shields.io/badge/Cypress-69D3A8?style=for-the-badge&logo=cypress)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 -->
 <a href="https://instagram.com/simoninha150881" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:contatowirus1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
